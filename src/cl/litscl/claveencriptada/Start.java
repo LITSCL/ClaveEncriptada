@@ -5,7 +5,6 @@ import java.security.MessageDigest;
 public class Start {
 
 	public static void main(String[] args) {
-		
 		String clave1 = "Clave123";
 		System.out.println("Clave 1: " + clave1);
 		
